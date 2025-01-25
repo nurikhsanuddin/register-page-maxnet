@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-custom-background {
+    background-image: url('/images/wave-one.svg'); /* Replace with your image path */
+}
+
+.bg-custom-index-background {
+    background-image: url('/images/wave-index.svg'); /* Replace with your image path */
+}
